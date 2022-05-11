@@ -1,6 +1,8 @@
 # ASCII-ART-WEB
 The program `ascii-art-web` is the implementation of the `ascii-art` project in the form of a web server.
 > This is our first `web` project in `golang`
+
+![ascii-art-web preview](https://github.com/Dias1c/wiki/blob/master/ascii-art-web/images/ascii-art-web-demo.gif?raw=true)
 <hr style="border:1px solid gray; height: 0px;">
 
 ## How to run?
